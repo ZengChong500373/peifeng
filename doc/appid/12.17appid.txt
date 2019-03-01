@@ -1,0 +1,101 @@
+num= 13550628494
+app_id=  608017
+app_hash= 8c40b981113ee7dcddc02c14eee46b5c
+two_step_code= as1516116
+
+num= 15883842244
+app_id=  547745
+app_hash= c46061b679eed2a3834837456e43464f
+two_step_code= as1516116
+
+num= 15884264283
+app_id=  406955
+app_hash= 7c289ca13ffa12292bad72d75eef9d57
+two_step_code= as1516116
+
+num= 15883843004
+app_id=  682417
+app_hash= 5f7ef15d68168943cbdbf37768cbff5b
+two_step_code= as1516116
+
+num= 15181033489
+app_id=  640000
+app_hash= b4e9cd9c988323dff5cdbc6fb510778e
+two_step_code= as1516116
+
+num= 15183850472
+app_id=  561109
+app_hash= 931b21e193fd5ada1bc138254b7087a0
+two_step_code= as1516116
+
+num= 15883844745
+app_id=  616188
+app_hash= 7db330ce4215fe52af6da8f25540fc49
+two_step_code= as1516116
+
+num= 13550665534
+app_id=  486485
+app_hash= a4450881134851876084a59eee2b234a
+two_step_code= as1516116
+
+num= 18383859264
+app_id=  412982
+app_hash= a0687b35c722a1b5dbfccdb8e3429ddb
+two_step_code= as1516116
+
+num= 15892489421
+app_id=  587987
+app_hash= 3123239ec1f67c83afb48a66792f5f32
+two_step_code= as1516116
+
+----------------------------------------------------------------------------------------------
+
+num= 15183856427
+app_id=  582858
+app_hash= b1d5c524d06ce50dba4d70733f841e40
+two_step_code= as1516116
+
+num= 15883695564
+app_id=  526621
+app_hash= 9909036c294087ede7ab3e5ce8b1168a
+two_step_code= as1516116
+
+num= 13550604742
+app_id=  532462
+app_hash= ce5205020ebd1b1ddf9327a096503cdb
+two_step_code= as1516116
+
+num= 15884294279
+app_id=  626154
+app_hash= b500e0f06dfcbd93249e279c483a4464
+two_step_code= as1516116
+
+num= 15282887604
+app_id=  546578
+app_hash= 5a4b1b4e612051db891fdf581696b722
+two_step_code= as1516116
+
+num= 13419034526
+app_id=  569344
+app_hash= f8187704dfa8f5395758df56a4f11ec6
+two_step_code= as1516116
+
+num= 15183834430
+app_id=  635490
+app_hash= ccdf10f48c5c93ffd292df487035f421
+two_step_code= as1516116
+
+num= 15884271174
+app_id=  504742
+app_hash= 692b6b2b1dfd9cf8ef72f3a4e3a1b191
+two_step_code= as1516116
+
+num= 15883696403
+app_id=  601775
+app_hash= e7d3faf50f0a29dc82da290ae4dcb04e
+two_step_code= as1516116
+
+num= 15282892411
+app_id=  676176
+app_hash= d51b286c0db68590759e644a5b89beaa
+two_step_code= as1516116

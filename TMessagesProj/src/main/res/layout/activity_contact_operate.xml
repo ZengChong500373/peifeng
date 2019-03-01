@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:orientation="vertical">
+
+<EditText
+    android:id="@+id/edit_word"
+    android:textColor="#000"
+    android:hint="清输入文本内容"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+<Button
+    android:text="发送"
+    android:textColor="#000"
+    android:background="#fff"
+    android:onClick="send"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />
+    <Button
+        android:text="检查发送状态"
+        android:onClick="check"
+        android:textColor="#000"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="log"
+        android:onClick="log"
+        android:textColor="#000"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:text="test"
+        android:onClick="test"
+        android:textColor="#000"
+        android:background="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

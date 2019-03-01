@@ -1,0 +1,110 @@
+num= 13931327007
+app_id= 583365
+app_hash= f2cb2185121cba8643ad3550a925135f
+two_step_code=as1516116
+
+num= 18333403410
+app_id= 353362
+app_hash= bf256fdc8f2be2eefb55b3248aff3032
+two_step_code=as1516116
+
+num= 18849339389
+app_id= 603414
+app_hash= 4dff23a14bba44083b09159354fbb15a
+two_step_code=as1516116
+
+num= 19831349442
+app_id= 603554
+app_hash= e212d5c0e892274e92103c9ffe5202b8
+two_step_code=as1516116
+
+num= 19831357665
+app_id= 585848
+app_hash= 77436755a1bafb45d75a008040ccb6f8
+two_step_code=as1516116
+
+num= 19831358380
+app_id= 527990
+app_hash= de0af200b4d6e0e0aad2a8284a2bf765
+two_step_code=as1516116
+
+num= 19831354120
+app_id= 562460
+app_hash= 55db1c6404d00ad95d3d201853651f88
+two_step_code=as1516116
+
+num= 19831354071
+app_id= 638809
+app_hash= 70408846f9154901a190e9df7779b069
+two_step_code=as1516116
+
+num= 19831357967
+app_id= 550516
+app_hash= 589b59b12daa68c0e67dfa648f297fca
+two_step_code=as1516116
+
+num= 18333403582
+app_id= 582508
+app_hash= 5906f066d6184a5e321370c047a96eb4
+two_step_code=as1516116
+
+
+----------------------------------------------------------------------------------------------------------
+
+
+num= 19831349360
+app_id= 622122
+app_hash= 0a809771d94a52055040e84e432e630e
+two_step_code=as1516116
+
+num= 18849339214
+app_id= 331689
+app_hash= 9fc30d58daa502f645f916629eb53157
+two_step_code=as1516116
+
+num= 19831357610
+app_id= 572818
+app_hash= 634bf755dcad4ac84aabec6c8cc6a8c3
+two_step_code=as1516116
+
+num= 15731357131
+app_id= 548398
+app_hash= 9c34af570fea815dc0e9748385be7c0f
+two_step_code=as1516116
+
+num= 15731356924
+app_id= 547751
+app_hash= b1dacf1d4045e92d89d55cb30011f5c5
+two_step_code=as1516116
+
+num= 18849339104
+app_id= 511775
+app_hash= 38283e3579c90dc4976254732cb843a1
+two_step_code=as1516116
+
+num= 18333350954
+app_id= 506287
+app_hash= 66ccbef56de48753109be4e7b9c6d481
+two_step_code=as1516116
+
+num= 19831349330
+app_id= 606358
+app_hash= a1584f41d5d15f0b7d3fd8fa0d5b3867
+two_step_code=as1516116
+
+num= 18849339613
+app_id= 587677
+app_hash= 11ceda352e5ce25103255b78137ce37b
+two_step_code=as1516116
+
+num= 19831329147
+app_id= 561273
+app_hash= 0440e630391fd27c2863bb9d382a1707
+two_step_code=as1516116
+
+
+
+
+
+
+
